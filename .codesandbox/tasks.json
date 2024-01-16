@@ -33,11 +33,6 @@
       "name": "test",
       "command": "npm run test",
       "runAtStart": false
-    },
-    "ng s -o": {
-      "name": "ng s -o",
-      "command": "ng s -o",
-      "runAtStart": true
     }
   }
 }
